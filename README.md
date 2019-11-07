@@ -12,5 +12,5 @@ github.com/uber/jaeger-client-go
 # Testing
 
 ## get the result from the UI
-Open the url `http://192.168.1.100:16686/`, and search the specified service. Then you should see the result like this as below：
+Open the url `http://192.168.174.135:16686/`, and search the specified service. Then you should see the result like this as below：
 ![jaegerui](./jaegerui.png)
